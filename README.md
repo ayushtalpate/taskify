@@ -1,4 +1,4 @@
-# Taskify 📝  
+# Taskify 
 A secure and scalable task management application built as part of a Backend Developer Internship assignment.
 
 # How to Run the Project
